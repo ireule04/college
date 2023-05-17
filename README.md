@@ -1,2 +1,2 @@
-# hicole
+# College
 COllege Webpage
